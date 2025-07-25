@@ -1,1 +1,1 @@
-# img-resizer
+Python Developer Internship Assignment-&
